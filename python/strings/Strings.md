@@ -13,6 +13,13 @@ s[-1] #3
 s[-3] #n
 
 ```
+### Indexado positivo y negativo
+String tienen un indexado para recorrer desde el principio y uno para recorrer desde el final.
+
+del principio inicia en 0
+desde el final inicia en -1
+### Slicing
+
 
 #### Buscar cadena
 find() regresa el indice de la primer coincidencia.
