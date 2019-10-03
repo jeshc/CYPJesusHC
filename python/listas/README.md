@@ -1,5 +1,5 @@
 # Listas
-###La estructura de datos lista tienen las siguientes caracteristicas:
+### La estructura de datos lista tienen las siguientes caracteristicas:
 - Puede contener 0 ó mas elementos,[]
 - Son buenas para almacenar datos en orden.
 - Los elementos pueden ser de diferentes tipos. ["Manzana", 12.9,"10"]
@@ -44,7 +44,7 @@ activos=list(mi_tupla) # ['servidor', 'disco duro', 'NAS']
 **Las listas son mutables**. Puede cambiar un elemento de lugar, agregar nuevos elementos y eliminar o sobrescribir elementos existentes. El mismo valor puede ocurrir más de una vez en una lista.
 
 ```
-#intercambio
+# intercambio
 dias_semana=["lunes","martes","miercoles","jueves","viernes","sabado","domingo"]
 tmp=dias_semana[1]
 dias_semana[1]=dias_semana[0]
