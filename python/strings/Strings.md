@@ -20,6 +20,17 @@ del principio inicia en 0
 desde el final inicia en -1
 ### Slicing
 
+Sacar rebanadas de una cadena
+sintaxis
+```
+nombre[<inicio>:<stop>:<incremento>]
+
+ejemplo:
+nombre="José Sosa"
+print(nombre[1:3:1])
+```
+¿Nunca se incluye el stop, por eso hay que poner uno mas.
+los valores por defecto de inicio es 0 y el incremento es 1.
 
 #### Buscar cadena
 find() regresa el indice de la primer coincidencia.
