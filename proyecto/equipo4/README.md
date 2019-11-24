@@ -1,6 +1,6 @@
-# Equipo n
+# Equipo 4
 
-- Nombre del alumno1
+- Ledesma Briones Antonio Yamir
 - Nombre del alumno2
 
 ### Programas:
