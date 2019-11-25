@@ -1,7 +1,9 @@
 # Equipo 4
 
 - Ledesma Briones Antonio Yamir
-- Nombre del alumno2
+- Gallegos García Ariadna Mildred
+- De la O Guerrero Alejandro
+- León Rosas Manuel Alejandro
 
 ### Programas:
 
