@@ -1,7 +1,9 @@
-# Equipo n
+# Equipo 4
 
-- Nombre del alumno1
-- Nombre del alumno2
+- Ledesma Briones Antonio Yamir
+- Gallegos García Ariadna Mildred
+- De la O Guerrero Alejandro
+- León Rosas Manuel Alejandro
 
 ### Programas:
 
