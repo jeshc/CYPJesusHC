@@ -1,10 +1,10 @@
-# Equipo n
+# Equipo 6
 
-- Nombre del alumno1
-- Nombre del alumno2
-
+- Nájera Cortés Erik Saúl
+- Pérez Rodríguez Rodríguez Angel
+- Sena Arrieta Rafael
 ### Programas:
 
-1. Descripcion del programa 1
-2. Descripción del programa 2
-3. Descripción del programa 3
+1. Problema 4.8
+2. PS 1.6
+3. PS 2.8
