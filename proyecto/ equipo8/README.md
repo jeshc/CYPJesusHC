@@ -1,3 +1,4 @@
+### Equipo: 8
 - Rosas Mora Luis Gerardo
 - Quintana Escamilla Roberto Carlos
 
