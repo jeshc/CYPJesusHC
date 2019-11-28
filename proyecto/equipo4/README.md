@@ -1,4 +1,4 @@
-## Equipo 4
+# Equipo 4
 
 - Ledesma Briones Antonio Yamir
 - Gallegos García Ariadna Mildred
