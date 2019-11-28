@@ -7,7 +7,7 @@
 
 ### Programas:
 
-#### 1. Descripcion del programa 1 (prob_res_4_10.py).
+#### 1. Descripción del programa 1 (prob_res_4_10.py).
 
 Programa el cual al introducir toneladas de cosecha por mes calcula:
 
