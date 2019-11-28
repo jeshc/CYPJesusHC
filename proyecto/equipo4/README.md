@@ -23,4 +23,4 @@ El área de un terreno está dada en la unidad de medida "acres", por lo que al 
 3. Descripción del programa 3 (ej_sup_2_10.py).
 
 El siguiente programa comprueba el cálculo de una expresión fraccionaria elevada a la n.
-Se ingresa por teclado el valor del numerador, denominador y la potencia, cumpliendo la igualdad de que (A/B)**N es igual a (A**N)/(B**N).
+Se ingresa por teclado el valor del numerador, denominador y la potencia, cumpliendo la igualdad de que (A/B)** N es igual a (A** N)/(B** N)
