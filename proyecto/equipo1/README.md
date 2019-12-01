@@ -1,7 +1,7 @@
-# Equipo n
+# Equipo 1
 
-- Nombre del alumno1
-- Nombre del alumno2
+- Eduardo Alonso Rodarte Toledano
+- Mario Alberto Jaimes Martínez
 
 ### Programas:
 
