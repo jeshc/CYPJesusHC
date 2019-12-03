@@ -1,8 +1,9 @@
-# Equipo n
+# Equipo 12
 
-- Nombre del alumno1
-- Nombre del alumno2
-
+- Barrera rodriguez abdeel sarid
+- Marcial González Jaime Omar
+- Hernandez Sanchez Ulises 
+- Espinosa Gomez Javier
 ### Programas:
 
 1. Descripcion del programa 1
