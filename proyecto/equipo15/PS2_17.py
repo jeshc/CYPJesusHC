@@ -1,5 +1,5 @@
 opcion = int(input("--Opciones-- \n1. Pulgadas a milimetros \n2. Yardas a metros \n3. Millas a kilometros \n"
-    "Ingrese la opcion que necesite:"))
+    "Ingrese la opcion que necesite,'1, 2, 3':"))
 if opcion == 1:
     pulgadas = float(input("Ingrese las pulgadas:"))
     milimetros = pulgadas * 25.40
