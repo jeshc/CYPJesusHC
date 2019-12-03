@@ -1,4 +1,4 @@
-# Equipo n
+# Equipo 9
 
 - López Ibarra Fernando Axel
 - Machuca Tapia José Ricardo
