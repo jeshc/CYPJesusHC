@@ -1,7 +1,6 @@
-# Equipo n
+# Equipo 2
 
-- Nombre del alumno1
-- Nombre del alumno2
+- Navarro Diaz Ulises
 
 ### Programas:
 
