@@ -1,0 +1,28 @@
+N=int(input("ingresa el tamaño del arreglo: "))
+if N <= 1 and N<= 50:
+    I=1
+    while(1 <= N):
+        j=1
+        while (J <= N):
+            I,J=(int(input(“ingrese el dato I,J”))
+            J=J+1
+     I = I+1
+     I=1
+     while (I <= (N div 2)):
+        J=1
+        while(J <= N):
+            AUX= A[I,J] 
+            A[I,J] =A[N - I + 1,J] 
+            A[N - I + 1,J] = AUX 
+            J= J + 1
+     I= I + 1
+     print(f”{AUX}”)
+     I = 1
+     while(J <= N):
+            J = 1
+            print(f”{A[I,J]}”)
+            J = J + 1
+      I = I + 1
+else:
+     print(“Error en el dato”)
+print(“Fin del programa”)
